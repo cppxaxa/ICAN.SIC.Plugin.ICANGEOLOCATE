@@ -1,0 +1,13 @@
+D:\Projects\ICAN\ICAN.SIC.Plugin.ICANGEOLOCATE\bin\Debug\ICAN.SIC.Plugin.ICANGEOLOCATE.Host.exe.config
+D:\Projects\ICAN\ICAN.SIC.Plugin.ICANGEOLOCATE\bin\Debug\ICAN.SIC.Plugin.ICANGEOLOCATE.Host.exe
+D:\Projects\ICAN\ICAN.SIC.Plugin.ICANGEOLOCATE\bin\Debug\ICAN.SIC.Plugin.ICANGEOLOCATE.Host.pdb
+D:\Projects\ICAN\ICAN.SIC.Plugin.ICANGEOLOCATE\ICAN.SIC.Plugin.ICANGEOLOCATE.Host\obj\Debug\ICAN.SIC.Plugin.ICANGEOLOCATE.Host.csprojAssemblyReference.cache
+D:\Projects\ICAN\ICAN.SIC.Plugin.ICANGEOLOCATE\ICAN.SIC.Plugin.ICANGEOLOCATE.Host\obj\Debug\ICAN.SIC.Plugin.ICANGEOLOCATE.Host.Properties.Resources.resources
+D:\Projects\ICAN\ICAN.SIC.Plugin.ICANGEOLOCATE\ICAN.SIC.Plugin.ICANGEOLOCATE.Host\obj\Debug\ICAN.SIC.Plugin.ICANGEOLOCATE.Host.csproj.GenerateResource.cache
+D:\Projects\ICAN\ICAN.SIC.Plugin.ICANGEOLOCATE\ICAN.SIC.Plugin.ICANGEOLOCATE.Host\obj\Debug\ICAN.SIC.Plugin.ICANGEOLOCATE.Host.csproj.CoreCompileInputs.cache
+D:\Projects\ICAN\ICAN.SIC.Plugin.ICANGEOLOCATE\ICAN.SIC.Plugin.ICANGEOLOCATE.Host\obj\Debug\ICAN.SIC.Plugin.ICANGEOLOCATE.Host.csproj.CopyComplete
+D:\Projects\ICAN\ICAN.SIC.Plugin.ICANGEOLOCATE\ICAN.SIC.Plugin.ICANGEOLOCATE.Host\obj\Debug\ICAN.SIC.Plugin.ICANGEOLOCATE.Host.exe
+D:\Projects\ICAN\ICAN.SIC.Plugin.ICANGEOLOCATE\ICAN.SIC.Plugin.ICANGEOLOCATE.Host\obj\Debug\ICAN.SIC.Plugin.ICANGEOLOCATE.Host.pdb
+D:\Projects\ICAN\ICAN.SIC.Plugin.ICANGEOLOCATE\ICAN.SIC.Plugin.ICANGEOLOCATE.Host\obj\Debug\ICAN.SIC.Plugin.ICANGEOLOCATE.Host.Form1.resources
+D:\Projects\ICAN\ICAN.SIC.Plugin.ICANGEOLOCATE\bin\Debug\GeoResources\CustomGeoNamesDb.tsv
+D:\Projects\ICAN\ICAN.SIC.Plugin.ICANGEOLOCATE\bin\Debug\GeoResources\GeoLocateGeoNamesDb.tsv

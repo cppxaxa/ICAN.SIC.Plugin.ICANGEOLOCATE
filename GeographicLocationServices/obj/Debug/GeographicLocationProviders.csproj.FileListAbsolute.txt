@@ -1,0 +1,13 @@
+D:\Projects\GeoSharp\GeographicLocationServices\bin\Debug\GeographicLocationProviders.dll
+D:\Projects\GeoSharp\GeographicLocationServices\bin\Debug\GeographicLocationProviders.pdb
+D:\Projects\GeoSharp\GeographicLocationServices\obj\Debug\GeographicLocationProviders.csproj.CoreCompileInputs.cache
+D:\Projects\GeoSharp\GeographicLocationServices\obj\Debug\GeographicLocationProviders.dll
+D:\Projects\GeoSharp\GeographicLocationServices\obj\Debug\GeographicLocationProviders.pdb
+D:\Projects\GeoSharp\bin\Debug\GeographicLocationProviders.dll
+D:\Projects\GeoSharp\bin\Debug\GeographicLocationProviders.pdb
+D:\Projects\GeoSharp\GeographicLocationServices\obj\Debug\GeographicLocationProviders.csprojAssemblyReference.cache
+D:\Projects\ICAN\ICAN.SIC.Plugin.ICANGEOLOCATE\bin\Debug\GeographicLocationProviders.dll
+D:\Projects\ICAN\ICAN.SIC.Plugin.ICANGEOLOCATE\bin\Debug\GeographicLocationProviders.pdb
+D:\Projects\ICAN\ICAN.SIC.Plugin.ICANGEOLOCATE\GeographicLocationServices\obj\Debug\GeographicLocationProviders.csproj.CoreCompileInputs.cache
+D:\Projects\ICAN\ICAN.SIC.Plugin.ICANGEOLOCATE\GeographicLocationServices\obj\Debug\GeographicLocationProviders.dll
+D:\Projects\ICAN\ICAN.SIC.Plugin.ICANGEOLOCATE\GeographicLocationServices\obj\Debug\GeographicLocationProviders.pdb

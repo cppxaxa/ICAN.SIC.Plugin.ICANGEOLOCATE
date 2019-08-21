@@ -1,0 +1,6 @@
+D:\Projects\GeoSharp\GeographicLocationServices\bin\Debug\GeographicLocationServices.dll
+D:\Projects\GeoSharp\GeographicLocationServices\bin\Debug\GeographicLocationServices.pdb
+D:\Projects\GeoSharp\GeographicLocationServices\obj\Debug\GeographicLocationServices.csprojAssemblyReference.cache
+D:\Projects\GeoSharp\GeographicLocationServices\obj\Debug\GeographicLocationServices.csproj.CoreCompileInputs.cache
+D:\Projects\GeoSharp\GeographicLocationServices\obj\Debug\GeographicLocationServices.dll
+D:\Projects\GeoSharp\GeographicLocationServices\obj\Debug\GeographicLocationServices.pdb

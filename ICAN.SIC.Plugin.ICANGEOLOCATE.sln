@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ICAN.SIC.Plugin.ICANGEOLOCATE", "ICAN.SIC.Plugin.ICANGEOLOCATE\ICAN.SIC.Plugin.ICANGEOLOCATE.csproj", "{939DE8B3-230F-483B-B16F-88B0C796A98C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ICAN.SIC.Plugin.ICANGEOLOCATE.Host", "ICAN.SIC.Plugin.ICANGEOLOCATE.Host\ICAN.SIC.Plugin.ICANGEOLOCATE.Host.csproj", "{5BA43390-1396-41D6-8417-494EE0DDDC61}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeoSharp", "GeoSharp\GeoSharp.csproj", "{70EEB227-F62D-4ECC-911E-07B643D1FA27}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeographicLocationProviders", "GeographicLocationServices\GeographicLocationProviders.csproj", "{C974982F-A160-4517-8EBE-819DB1460408}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		ICAN.SIC_Debug|Any CPU = ICAN.SIC_Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{939DE8B3-230F-483B-B16F-88B0C796A98C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{939DE8B3-230F-483B-B16F-88B0C796A98C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{939DE8B3-230F-483B-B16F-88B0C796A98C}.ICAN.SIC_Debug|Any CPU.ActiveCfg = ICAN.SIC_Debug|Any CPU
+		{939DE8B3-230F-483B-B16F-88B0C796A98C}.ICAN.SIC_Debug|Any CPU.Build.0 = ICAN.SIC_Debug|Any CPU
+		{939DE8B3-230F-483B-B16F-88B0C796A98C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{939DE8B3-230F-483B-B16F-88B0C796A98C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BA43390-1396-41D6-8417-494EE0DDDC61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BA43390-1396-41D6-8417-494EE0DDDC61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BA43390-1396-41D6-8417-494EE0DDDC61}.ICAN.SIC_Debug|Any CPU.ActiveCfg = ICAN.SIC_Debug|Any CPU
+		{5BA43390-1396-41D6-8417-494EE0DDDC61}.ICAN.SIC_Debug|Any CPU.Build.0 = ICAN.SIC_Debug|Any CPU
+		{5BA43390-1396-41D6-8417-494EE0DDDC61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BA43390-1396-41D6-8417-494EE0DDDC61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70EEB227-F62D-4ECC-911E-07B643D1FA27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70EEB227-F62D-4ECC-911E-07B643D1FA27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70EEB227-F62D-4ECC-911E-07B643D1FA27}.ICAN.SIC_Debug|Any CPU.ActiveCfg = ICAN.SIC_Debug|Any CPU
+		{70EEB227-F62D-4ECC-911E-07B643D1FA27}.ICAN.SIC_Debug|Any CPU.Build.0 = ICAN.SIC_Debug|Any CPU
+		{70EEB227-F62D-4ECC-911E-07B643D1FA27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70EEB227-F62D-4ECC-911E-07B643D1FA27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C974982F-A160-4517-8EBE-819DB1460408}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C974982F-A160-4517-8EBE-819DB1460408}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C974982F-A160-4517-8EBE-819DB1460408}.ICAN.SIC_Debug|Any CPU.ActiveCfg = ICAN.SIC_Debug|Any CPU
+		{C974982F-A160-4517-8EBE-819DB1460408}.ICAN.SIC_Debug|Any CPU.Build.0 = ICAN.SIC_Debug|Any CPU
+		{C974982F-A160-4517-8EBE-819DB1460408}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C974982F-A160-4517-8EBE-819DB1460408}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61054A3A-F3F6-4FBA-A26D-902021E8F250}
+	EndGlobalSection
+EndGlobal

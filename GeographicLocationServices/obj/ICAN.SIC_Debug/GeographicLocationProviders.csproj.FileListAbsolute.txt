@@ -1,0 +1,8 @@
+D:\Projects\ICAN\ICAN.SIC.Plugin.ICANGEOLOCATE\ICAN.SIC\bin\ICAN.SIC_Debug\GeographicLocationProviders.dll
+D:\Projects\ICAN\ICAN.SIC.Plugin.ICANGEOLOCATE\ICAN.SIC\bin\ICAN.SIC_Debug\GeographicLocationProviders.pdb
+D:\Projects\ICAN\ICAN.SIC.Plugin.ICANGEOLOCATE\GeographicLocationServices\obj\ICAN.SIC_Debug\GeographicLocationProviders.csprojAssemblyReference.cache
+D:\Projects\ICAN\ICAN.SIC.Plugin.ICANGEOLOCATE\GeographicLocationServices\obj\ICAN.SIC_Debug\GeographicLocationProviders.csproj.CoreCompileInputs.cache
+D:\Projects\ICAN\ICAN.SIC.Plugin.ICANGEOLOCATE\GeographicLocationServices\obj\ICAN.SIC_Debug\GeographicLocationProviders.dll
+D:\Projects\ICAN\ICAN.SIC.Plugin.ICANGEOLOCATE\GeographicLocationServices\obj\ICAN.SIC_Debug\GeographicLocationProviders.pdb
+D:\Projects\ICAN\ICAN.SIC\bin\Debug\GeographicLocationProviders.dll
+D:\Projects\ICAN\ICAN.SIC\bin\Debug\GeographicLocationProviders.pdb
