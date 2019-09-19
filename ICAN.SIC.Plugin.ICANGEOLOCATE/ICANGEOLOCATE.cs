@@ -229,5 +229,13 @@ namespace ICAN.SIC.Plugin.ICANGEOLOCATE
             utility.PushMessage(hub, "[Place] " + place.Name + "," + place.CountryCode + "," + place.FeatureClass
                 + ",lat_" + place.Latitude + ",lon_" + place.Longitude);
         }
+
+        public override void Dispose()
+        {
+            hub.Unsubscribe<IGeoLocationRequest>(Service);
+
+            utility = null;
+            helper = null;
+        }
     }
 }
