@@ -28,6 +28,7 @@ namespace ICAN.SIC.Plugin.ICANGEOLOCATE
         private void Service(IGeoLocationRequest request)
         {
             Console.WriteLine("Request: " + request.CommandText);
+
             string[] split = request.CommandText.Split(',');
 
             string functionName = split[0];
